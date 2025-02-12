@@ -5,7 +5,7 @@ Asrua UI is a short example of a roblox ui library!
 # Usage
 Load and Create Asrua UI
 ```lua
-local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ahsrua/AsruaUI/main/sursa.lua"))():MakePrototypeLibrary("Asra UI")
+local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/sourcersknz/sigma-library/refs/heads/main/sursa.lua"))():MakePrototypeLibrary("Asra UI")
 ```
 Make a Tab
 ```lua
